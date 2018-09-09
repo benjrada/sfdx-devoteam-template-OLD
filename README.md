@@ -1,7 +1,12 @@
 # SFDX Simple App
 
-Altius deploy : [![Deploy](https://als-deploy-to-sfdx.herokuapp.com/dist/assets/images/DeployToSFDX.svg)](https://als-deploy-to-sfdx.herokuapp.com)
-Std deploy : [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
+Altius deploy :
+
+[![Deploy](https://als-deploy-to-sfdx.herokuapp.com/dist/assets/images/DeployToSFDX.svg)](https://als-deploy-to-sfdx.herokuapp.com)
+
+Std deploy :
+
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/)
 
 The Salesforce Developer Experience (SFDX) starts with source code living in your version control system.
 
