@@ -8,6 +8,10 @@ Std deploy :
 
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/)
 
+Std SFDX deployer :
+
+[![Deploy](https://raw.githubusercontent.com/mshanemc/deploy-to-sfdx/master/assets/sfdx_it_now.png)](https://hosted-scratch.herokuapp.com/launch?template=https://github.com/AltiusRupert/sfdx-simple)
+
 Altius SFDX deployer :
 
 [![Deploy](https://raw.githubusercontent.com/mshanemc/deploy-to-sfdx/master/assets/sfdx_it_now.png)](https://als-sfdx-deployer.herokuapp.com/launch?template=https://github.com/AltiusRupert/sfdx-simple)
