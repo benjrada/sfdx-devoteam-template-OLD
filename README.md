@@ -1,5 +1,16 @@
 # SFDX Simple App
 
+To create a copy of this repo in Github :
+https://help.github.com/en/articles/duplicating-a-repository
+
+$ git clone --bare https://github.com/exampleuser/old-repository.git
+$ cd old-repository.git
+$ git push --mirror https://github.com/exampleuser/new-repository.git
+$ cd ..
+$ rm -rf old-repository.git
+
+
+
 Altius deploy :
 
 [![Deploy](https://als-deploy-to-sfdx.herokuapp.com/dist/assets/images/DeployToSFDX.svg)](https://als-deploy-to-sfdx.herokuapp.com)
