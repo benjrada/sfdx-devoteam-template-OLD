@@ -1,12 +1,12 @@
 {
-  "country": "US",
-  "edition": "Developer",
-  "orgPreferences": {
-    "enabled": [
-      "S1DesktopEnabled"
-    ],
-    "disabled": []
-  },
-  "orgName": "Your Company",
-  "adminEmail": "yourname@example.com"
+	"country": "FR",
+	"edition": "Developer",
+	"language": "fr",
+	"settings": {
+		"orgPreferenceSettings": {
+			"s1DesktopEnabled": true
+		}
+	}
+	"orgName": 	"Your Company",
+	"adminEmail": "rupert.barrow@devoteam.com"
 }
