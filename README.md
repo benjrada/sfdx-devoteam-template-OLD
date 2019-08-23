@@ -3,11 +3,12 @@
 To create a copy of this repo in Github :
 https://help.github.com/en/articles/duplicating-a-repository
 
-    git clone --bare https://user:password@github.com/user/sfdx-simple.git
-    cd old-repository.git
-    git push --mirror https://user:password@github.com/user/new-repository.git
+    git clone --bare https://user:password@github.com/AltiusRupert/sfdx-simple.git
+    cd sfdx-simple.git
+    ## créer d'abord le report new-repository.git
+    git push --mirror https://user:password@github.com/AltiusRupert/new-repository.git
     cd ..
-    rm -rf old-repository.git
+    rm -rf sfdx-simple.git
 
 
 
