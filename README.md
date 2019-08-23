@@ -3,11 +3,11 @@
 To create a copy of this repo in Github :
 https://help.github.com/en/articles/duplicating-a-repository
 
-$ git clone --bare https://github.com/exampleuser/old-repository.git
-$ cd old-repository.git
-$ git push --mirror https://github.com/exampleuser/new-repository.git
-$ cd ..
-$ rm -rf old-repository.git
+    git clone --bare https://user:password@github.com/user/sfdx-simple.git
+    cd old-repository.git
+    git push --mirror https://user:password@github.com/user/new-repository.git
+    cd ..
+    rm -rf old-repository.git
 
 
 
