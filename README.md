@@ -1,16 +1,5 @@
 # SFDX Simple App
 
-To create a copy of this repo in Github :
-https://help.github.com/en/articles/duplicating-a-repository
-
-    git clone --bare https://user:password@github.com/AltiusRupert/sfdx-simple.git
-    cd sfdx-simple.git
-    ## créer d'abord le report new-repository.git
-    git push --mirror https://user:password@github.com/AltiusRupert/new-repository.git
-    cd ..
-    rm -rf sfdx-simple.git
-
-
 
 Altius deploy :
 
