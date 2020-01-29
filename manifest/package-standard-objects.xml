@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  
+  <!-- List of standard objects -->
   <types>
     <members>Account</members>
     <members>AccountContactRole</members>
@@ -72,6 +74,7 @@
     <name>CustomObjectTranslation</name>
   </types>
 
+  <!-- Standard picklist fields values -->
   <types>
     <members>*</members>
     <name>StandardValueSet</name>
@@ -81,6 +84,7 @@
     <name>StandardValueSetTranslation</name>
   </types>
 
+  <!-- Global picklist fields values -->
   <types>
     <members>*</members>
     <name>GlobalValueSet</name>
@@ -89,5 +93,6 @@
     <members>*</members>
     <name>GlobalValueSetTranslation</name>
   </types>
+  
   <version>47.0</version>
 </Package>
