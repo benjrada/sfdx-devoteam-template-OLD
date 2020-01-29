@@ -71,13 +71,23 @@
     <members>*</members>
     <name>CustomObjectTranslation</name>
   </types>
+
   <types>
     <members>*</members>
     <name>StandardValueSet</name>
   </types>
   <types>
     <members>*</members>
+    <name>StandardValueSetTranslation</name>
+  </types>
+
+  <types>
+    <members>*</members>
     <name>GlobalValueSet</name>
+  </types>
+  <types>
+    <members>*</members>
+    <name>GlobalValueSetTranslation</name>
   </types>
   <version>47.0</version>
 </Package>
