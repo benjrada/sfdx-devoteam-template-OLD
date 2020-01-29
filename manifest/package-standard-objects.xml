@@ -58,11 +58,8 @@
     <members>Solution</members>
     <members>StreamingChannel</members>
     <members>Task</members>
-    <members>Territory2</members>
-    <members>Territory2Model</members>
     <members>User</members>
     <members>UserProvisioningRequest</members>
-    <members>UserTerritory2Association</members>
     <members>WorkBadge</members>
     <members>WorkBadgeDefinition</members>
     <members>WorkThanks</members>
