@@ -1,0 +1,16 @@
+tasks:
+  - init:    echo "Replace me with a build script for the project."
+    command: echo "Replace me with something that should run on every start, or just remove me entirely."
+
+# Dockerfile borrowed from https://github.com/forcedotcom/vscode-remote-try-sfdx/blob/master/.devcontainer/Dockerfile
+image:
+  file: .gitpod.Dockerfile
+
+# See here for reference : https://github.com/forcedotcom/vscode-remote-try-sfdx/blob/master/.devcontainer/devcontainer.json
+# Gitpod equivalent to SFDX VS Code remote development, VS code extensions
+vscode:
+  extensions:
+    - salesforce.salesforcedx-vscode@48.15.0:2XDsu2Z5IDQcHwKnE07FJQ==
+    - dbaeumer.vscode-eslint@2.1.5:9Wg0Glx/TwD8ElFBg+FKcQ==
+    - redhat.vscode-xml@0.11.0:UisfuLs/74cHN6OonFG4YA==
+    - esbenp.prettier-vscode@4.7.0:kgoYSh1LwTixKtJtQWtodQ==
