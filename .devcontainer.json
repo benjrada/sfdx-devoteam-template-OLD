@@ -1,9 +1,9 @@
 // Configuration file for Online Visual Studio (CodeSpaces) @ https://online.visualstudio.com/
 
 {
-    // see : https://hub.docker.com/r/salesforce/salesforcedx
+    // see : hub.docker.com/r/salesforce/salesforcedx
     
     "docker" : {
-        "image" : salesforce/salesforcedx:latest-slim
+        "image" : "salesforce/salesforcedx:latest-slim"
     }
 }
