@@ -57,10 +57,28 @@ typings/
 # dotenv environment variables file
 .env
 
-.sfdx
 .localdevserver
 build/
 dist/
 *.zip
 force-app/main/default/staticresources/**
 !force-app/main/default/staticresources/*-meta.xml
+.classpath
+.DS_Store
+.idea
+.project
+.salesforce
+.settings
+.sfdx/
+.tern-project
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+**/jsconfig.json
+node_modules/
+selenium-client-jars/
+test/artifacts/
+yarn.lock
+sfdx/
+**.tar.xz
+echo
