@@ -3,7 +3,7 @@
 
 {
     "docker" : {
-        "image" : "salesforce/salesforcedx:latest-slim"
+        "image" : "salesforce/cli:latest-rc-full"
     },
     
     "extensions" : [
