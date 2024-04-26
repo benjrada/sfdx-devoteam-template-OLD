@@ -1,4 +1,4 @@
-FROM salesforce/salesforcedx:latest-slim
+FROM salesforce/cli:latest-rc-full
                     
 USER gitpod
 
